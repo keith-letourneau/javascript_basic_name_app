@@ -1,0 +1,17 @@
+h1 {
+	color: #2f2f2f;
+  }
+
+  body {
+	background-color: #CACCCE;
+	opacity: 0.9;
+  }
+
+  .findText {
+	background-color: yellow;
+  }
+
+  img {
+	width: 12%;
+	height: auto;
+  }
