@@ -4,9 +4,9 @@ function got_Name() {
 
   if (chkBox.checked) {
     document.getElementById('output').innerHTML =
-      'Mr. ' + first_name + ' Stark';
+      'Sir ' + first_name + ' Stark';
   } else {
     document.getElementById('output').innerHTML =
-      'Mrs. ' + first_name + ' Stark';
+      'Lady ' + first_name + ' Stark';
   }
 }
